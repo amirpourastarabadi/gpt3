@@ -8,6 +8,7 @@ import {
 } from "./sections"
 import { CTA, Brand, Navbar } from "./components"
 
+import "./index.css"
 import './App.css';
 
 const App = () => {
